@@ -88,6 +88,193 @@
                     {"Кенорындар/Месторождения/Deposits":  "Висловское, Мелихово-Щебекинское (Ресей), Шевченко (Қазақстан); Висловское, Мелихово-Щебекинское (Россия), Шевченко (Казахстан); Vislovskoe, Melihovo-Schebekinskoe (Russia), Shevchenko (Kazakhstan) \n"}],
     "categorie":"Коры выветривания",
     "img": "https://sun9-35.userapi.com/c858016/v858016922/168bb3/srMBMq3n-Yw.jpg"
+  },{
+    "name": "Үгілу қыртысы/Кора выветривания/The weathering crust ",
+    "description": [{"Генезисі  Генезис Genesis":"\nШөгінді; Осадочная; Sedimentary\n "},
+                    {"Минералогиялық құрам/Минералогический состав/Mineralogical composition":"\nКаолинит, гётит, гематит и гиббсит; Каолинит, гётит, гематит и гиббсит; Kaolinite, goethite, hematite and gibbsite \n"},
+                    {"Құрылым/Структура/Structure":"\nПелитаморфты, оолитті; Пелитовая, бобовая; Pelitoamorfnaya, oolitic \n"},
+                    {"Бітімі/Текстура/Texture" :"\nКеуекті, топырақ тәрізді;Пористая, землистая;The porous, earthy \n"},
+                    {"Жатыс формалары/Форма залегания/Оccurrence form" :"\nЛинзалар, қабаттар; Линзы, пласты; Lenses, layers\n"},
+                    {"Пайдалануы/Применение/Uses": "темір, алюминий, марганец, никель кені ; руда на железо, алюминий, марганец, никель; ore of iron, aluminum, manganese,nickel\n"}, 
+                    {"Кенорындар/Месторождения/Deposits":  "Висловск, Мелихово-Щебекинск (Ресей), Шевченко (Қазақстан); Висловское, Мелихово-Щебекинское (Россия), Шевченко (Казахстан); Vislovskoe, Melihovo-Schebekinskoe (Russia), Shevchenko (Kazakhstan) \n"}],
+    "categorie":"Коры выветривания",
+    "img": "https://sun9-42.userapi.com/c857624/v857624410/16c238/PmqjQjJnhaQ.jpg"
+  },{
+    "name": "Қиыршықтас/Малахитовая зелень/Breakstone",
+    "description": [{"Генезисі  Генезис Genesis":"\nШөгінді; Осадочная; Sedimentary\n "},
+                    {"Минералогиялық құрам/Минералогический состав/Mineralogical composition":"\nӘр түрлі, бастапқы тау жыныстың құрамына байланысты; Различный, зависит от состава исходной породы; Various, it depends of the composition of the parent rock \n"},
+                    {"Құрылым/Структура/Structure":"\nПсефитті; Псефитовая; Рsephitic \n"},
+                    {"Бітімі/Текстура/Texture" :"\nМассивті; Массивная; Massive \n"},
+                    {"Жатыс формалары/Форма залегания/Оccurrence form" :"\nЛинзалар, қабаттар; Линзы, слои; Lenses, layers\n"},
+                    {"Пайдалануы/Применение/Uses": "Бағалы сәндік қасиетті болып табылады, медицинада пайдаланады, химиялық өндірісте; Имеет ценные декоративные качества, в медицине, химической промышленности; It has valuable decorative qualities, in medicine, in the chemical industry \n"}, 
+                    {"Кенорындар/Месторождения/Deposits":  "Орал кенорындары, Меднорудянское Ресей, Конго, Жезқазған, Қазақстанда; месторождения Урала, Меднорудянское Россия, Конго, Жезказган в Казахстане; deposits of the Urals, Mednorudryanskoe Russia, Congo, Zhezkazgan in Kazakhstan \n"}],
+    "categorie":"Коры выветривания",
+    "img": "https://sun9-6.userapi.com/c857624/v857624410/16c23f/pZ9_ikSlYT4.jpg"
+  },{
+    "name": "Кора выветривания",
+    "description": [{"Генезисі  Генезис Genesis":"\nШөгінді; Осадочная; Sedimentary\n "},
+                    {"Минералогиялық құрам/Минералогический состав/Mineralogical composition":"\nКаолинит, гётит, гематит и гиббсит; Каолинит, гётит, гематит и гиббсит; Kaolinite, goethite, hematite and gibbsite \n"},
+                    {"Құрылым/Структура/Structure":"\nПелитаморфты, оолитті; Пелитовая, бобовая; Pelitoamorfnaya, oolitic \n"},
+                    {"Бітімі/Текстура/Texture" :"\nКеуекті, топырақ тәрізді;Пористая, землистая;The porous, earthy \n"},
+                    {"Жатыс формалары/Форма залегания/Оccurrence form" :"\nЛинзалар, қабаттар; Линзы, пласты; Lenses, layers\n"},
+                    {"Пайдалануы/Применение/Uses": "темір, алюминий, марганец, никель кені ; руда на железо, алюминий, марганец, никель; ore of iron, aluminum, manganese,nickel\n"}, 
+                    {"Кенорындар/Месторождения/Deposits":  "Висловское, Мелихово-Щебекинское (Ресей), Шевченко (Қазақстан); Висловское, Мелихово-Щебекинское (Россия), Шевченко (Казахстан); Vislovskoe, Melihovo-Schebekinskoe (Russia), Shevchenko (Kazakhstan) \n"}],
+    "categorie":"Коры выветривания",
+    "img": "https://sun9-35.userapi.com/c858016/v858016922/168bb3/srMBMq3n-Yw.jpg"
+  },{
+    "name": "Кора выветривания",
+    "description": [{"Генезисі  Генезис Genesis":"\nШөгінді; Осадочная; Sedimentary\n "},
+                    {"Минералогиялық құрам/Минералогический состав/Mineralogical composition":"\nКаолинит, гётит, гематит и гиббсит; Каолинит, гётит, гематит и гиббсит; Kaolinite, goethite, hematite and gibbsite \n"},
+                    {"Құрылым/Структура/Structure":"\nПелитаморфты, оолитті; Пелитовая, бобовая; Pelitoamorfnaya, oolitic \n"},
+                    {"Бітімі/Текстура/Texture" :"\nКеуекті, топырақ тәрізді;Пористая, землистая;The porous, earthy \n"},
+                    {"Жатыс формалары/Форма залегания/Оccurrence form" :"\nЛинзалар, қабаттар; Линзы, пласты; Lenses, layers\n"},
+                    {"Пайдалануы/Применение/Uses": "темір, алюминий, марганец, никель кені ; руда на железо, алюминий, марганец, никель; ore of iron, aluminum, manganese,nickel\n"}, 
+                    {"Кенорындар/Месторождения/Deposits":  "Висловское, Мелихово-Щебекинское (Ресей), Шевченко (Қазақстан); Висловское, Мелихово-Щебекинское (Россия), Шевченко (Казахстан); Vislovskoe, Melihovo-Schebekinskoe (Russia), Shevchenko (Kazakhstan) \n"}],
+    "categorie":"Коры выветривания",
+    "img": "https://sun9-35.userapi.com/c858016/v858016922/168bb3/srMBMq3n-Yw.jpg"
+  },{
+    "name": "Кора выветривания",
+    "description": [{"Генезисі  Генезис Genesis":"\nШөгінді; Осадочная; Sedimentary\n "},
+                    {"Минералогиялық құрам/Минералогический состав/Mineralogical composition":"\nКаолинит, гётит, гематит и гиббсит; Каолинит, гётит, гематит и гиббсит; Kaolinite, goethite, hematite and gibbsite \n"},
+                    {"Құрылым/Структура/Structure":"\nПелитаморфты, оолитті; Пелитовая, бобовая; Pelitoamorfnaya, oolitic \n"},
+                    {"Бітімі/Текстура/Texture" :"\nКеуекті, топырақ тәрізді;Пористая, землистая;The porous, earthy \n"},
+                    {"Жатыс формалары/Форма залегания/Оccurrence form" :"\nЛинзалар, қабаттар; Линзы, пласты; Lenses, layers\n"},
+                    {"Пайдалануы/Применение/Uses": "темір, алюминий, марганец, никель кені ; руда на железо, алюминий, марганец, никель; ore of iron, aluminum, manganese,nickel\n"}, 
+                    {"Кенорындар/Месторождения/Deposits":  "Висловское, Мелихово-Щебекинское (Ресей), Шевченко (Қазақстан); Висловское, Мелихово-Щебекинское (Россия), Шевченко (Казахстан); Vislovskoe, Melihovo-Schebekinskoe (Russia), Shevchenko (Kazakhstan) \n"}],
+    "categorie":"Коры выветривания",
+    "img": "https://sun9-35.userapi.com/c858016/v858016922/168bb3/srMBMq3n-Yw.jpg"
+  },{
+    "name": "Кора выветривания",
+    "description": [{"Генезисі  Генезис Genesis":"\nШөгінді; Осадочная; Sedimentary\n "},
+                    {"Минералогиялық құрам/Минералогический состав/Mineralogical composition":"\nКаолинит, гётит, гематит и гиббсит; Каолинит, гётит, гематит и гиббсит; Kaolinite, goethite, hematite and gibbsite \n"},
+                    {"Құрылым/Структура/Structure":"\nПелитаморфты, оолитті; Пелитовая, бобовая; Pelitoamorfnaya, oolitic \n"},
+                    {"Бітімі/Текстура/Texture" :"\nКеуекті, топырақ тәрізді;Пористая, землистая;The porous, earthy \n"},
+                    {"Жатыс формалары/Форма залегания/Оccurrence form" :"\nЛинзалар, қабаттар; Линзы, пласты; Lenses, layers\n"},
+                    {"Пайдалануы/Применение/Uses": "темір, алюминий, марганец, никель кені ; руда на железо, алюминий, марганец, никель; ore of iron, aluminum, manganese,nickel\n"}, 
+                    {"Кенорындар/Месторождения/Deposits":  "Висловское, Мелихово-Щебекинское (Ресей), Шевченко (Қазақстан); Висловское, Мелихово-Щебекинское (Россия), Шевченко (Казахстан); Vislovskoe, Melihovo-Schebekinskoe (Russia), Shevchenko (Kazakhstan) \n"}],
+    "categorie":"Коры выветривания",
+    "img": "https://sun9-35.userapi.com/c858016/v858016922/168bb3/srMBMq3n-Yw.jpg"
+  },{
+    "name": "Кора выветривания",
+    "description": [{"Генезисі  Генезис Genesis":"\nШөгінді; Осадочная; Sedimentary\n "},
+                    {"Минералогиялық құрам/Минералогический состав/Mineralogical composition":"\nКаолинит, гётит, гематит и гиббсит; Каолинит, гётит, гематит и гиббсит; Kaolinite, goethite, hematite and gibbsite \n"},
+                    {"Құрылым/Структура/Structure":"\nПелитаморфты, оолитті; Пелитовая, бобовая; Pelitoamorfnaya, oolitic \n"},
+                    {"Бітімі/Текстура/Texture" :"\nКеуекті, топырақ тәрізді;Пористая, землистая;The porous, earthy \n"},
+                    {"Жатыс формалары/Форма залегания/Оccurrence form" :"\nЛинзалар, қабаттар; Линзы, пласты; Lenses, layers\n"},
+                    {"Пайдалануы/Применение/Uses": "темір, алюминий, марганец, никель кені ; руда на железо, алюминий, марганец, никель; ore of iron, aluminum, manganese,nickel\n"}, 
+                    {"Кенорындар/Месторождения/Deposits":  "Висловское, Мелихово-Щебекинское (Ресей), Шевченко (Қазақстан); Висловское, Мелихово-Щебекинское (Россия), Шевченко (Казахстан); Vislovskoe, Melihovo-Schebekinskoe (Russia), Shevchenko (Kazakhstan) \n"}],
+    "categorie":"Коры выветривания",
+    "img": "https://sun9-35.userapi.com/c858016/v858016922/168bb3/srMBMq3n-Yw.jpg"
+  },{
+    "name": "Кора выветривания",
+    "description": [{"Генезисі  Генезис Genesis":"\nШөгінді; Осадочная; Sedimentary\n "},
+                    {"Минералогиялық құрам/Минералогический состав/Mineralogical composition":"\nКаолинит, гётит, гематит и гиббсит; Каолинит, гётит, гематит и гиббсит; Kaolinite, goethite, hematite and gibbsite \n"},
+                    {"Құрылым/Структура/Structure":"\nПелитаморфты, оолитті; Пелитовая, бобовая; Pelitoamorfnaya, oolitic \n"},
+                    {"Бітімі/Текстура/Texture" :"\nКеуекті, топырақ тәрізді;Пористая, землистая;The porous, earthy \n"},
+                    {"Жатыс формалары/Форма залегания/Оccurrence form" :"\nЛинзалар, қабаттар; Линзы, пласты; Lenses, layers\n"},
+                    {"Пайдалануы/Применение/Uses": "темір, алюминий, марганец, никель кені ; руда на железо, алюминий, марганец, никель; ore of iron, aluminum, manganese,nickel\n"}, 
+                    {"Кенорындар/Месторождения/Deposits":  "Висловское, Мелихово-Щебекинское (Ресей), Шевченко (Қазақстан); Висловское, Мелихово-Щебекинское (Россия), Шевченко (Казахстан); Vislovskoe, Melihovo-Schebekinskoe (Russia), Shevchenko (Kazakhstan) \n"}],
+    "categorie":"Коры выветривания",
+    "img": "https://sun9-35.userapi.com/c858016/v858016922/168bb3/srMBMq3n-Yw.jpg"
+  },{
+    "name": "Кора выветривания",
+    "description": [{"Генезисі  Генезис Genesis":"\nШөгінді; Осадочная; Sedimentary\n "},
+                    {"Минералогиялық құрам/Минералогический состав/Mineralogical composition":"\nКаолинит, гётит, гематит и гиббсит; Каолинит, гётит, гематит и гиббсит; Kaolinite, goethite, hematite and gibbsite \n"},
+                    {"Құрылым/Структура/Structure":"\nПелитаморфты, оолитті; Пелитовая, бобовая; Pelitoamorfnaya, oolitic \n"},
+                    {"Бітімі/Текстура/Texture" :"\nКеуекті, топырақ тәрізді;Пористая, землистая;The porous, earthy \n"},
+                    {"Жатыс формалары/Форма залегания/Оccurrence form" :"\nЛинзалар, қабаттар; Линзы, пласты; Lenses, layers\n"},
+                    {"Пайдалануы/Применение/Uses": "темір, алюминий, марганец, никель кені ; руда на железо, алюминий, марганец, никель; ore of iron, aluminum, manganese,nickel\n"}, 
+                    {"Кенорындар/Месторождения/Deposits":  "Висловское, Мелихово-Щебекинское (Ресей), Шевченко (Қазақстан); Висловское, Мелихово-Щебекинское (Россия), Шевченко (Казахстан); Vislovskoe, Melihovo-Schebekinskoe (Russia), Shevchenko (Kazakhstan) \n"}],
+    "categorie":"Коры выветривания",
+    "img": "https://sun9-35.userapi.com/c858016/v858016922/168bb3/srMBMq3n-Yw.jpg"
+  },{
+    "name": "Кора выветривания",
+    "description": [{"Генезисі  Генезис Genesis":"\nШөгінді; Осадочная; Sedimentary\n "},
+                    {"Минералогиялық құрам/Минералогический состав/Mineralogical composition":"\nКаолинит, гётит, гематит и гиббсит; Каолинит, гётит, гематит и гиббсит; Kaolinite, goethite, hematite and gibbsite \n"},
+                    {"Құрылым/Структура/Structure":"\nПелитаморфты, оолитті; Пелитовая, бобовая; Pelitoamorfnaya, oolitic \n"},
+                    {"Бітімі/Текстура/Texture" :"\nКеуекті, топырақ тәрізді;Пористая, землистая;The porous, earthy \n"},
+                    {"Жатыс формалары/Форма залегания/Оccurrence form" :"\nЛинзалар, қабаттар; Линзы, пласты; Lenses, layers\n"},
+                    {"Пайдалануы/Применение/Uses": "темір, алюминий, марганец, никель кені ; руда на железо, алюминий, марганец, никель; ore of iron, aluminum, manganese,nickel\n"}, 
+                    {"Кенорындар/Месторождения/Deposits":  "Висловское, Мелихово-Щебекинское (Ресей), Шевченко (Қазақстан); Висловское, Мелихово-Щебекинское (Россия), Шевченко (Казахстан); Vislovskoe, Melihovo-Schebekinskoe (Russia), Shevchenko (Kazakhstan) \n"}],
+    "categorie":"Коры выветривания",
+    "img": "https://sun9-35.userapi.com/c858016/v858016922/168bb3/srMBMq3n-Yw.jpg"
+  },{
+    "name": "Кора выветривания",
+    "description": [{"Генезисі  Генезис Genesis":"\nШөгінді; Осадочная; Sedimentary\n "},
+                    {"Минералогиялық құрам/Минералогический состав/Mineralogical composition":"\nКаолинит, гётит, гематит и гиббсит; Каолинит, гётит, гематит и гиббсит; Kaolinite, goethite, hematite and gibbsite \n"},
+                    {"Құрылым/Структура/Structure":"\nПелитаморфты, оолитті; Пелитовая, бобовая; Pelitoamorfnaya, oolitic \n"},
+                    {"Бітімі/Текстура/Texture" :"\nКеуекті, топырақ тәрізді;Пористая, землистая;The porous, earthy \n"},
+                    {"Жатыс формалары/Форма залегания/Оccurrence form" :"\nЛинзалар, қабаттар; Линзы, пласты; Lenses, layers\n"},
+                    {"Пайдалануы/Применение/Uses": "темір, алюминий, марганец, никель кені ; руда на железо, алюминий, марганец, никель; ore of iron, aluminum, manganese,nickel\n"}, 
+                    {"Кенорындар/Месторождения/Deposits":  "Висловское, Мелихово-Щебекинское (Ресей), Шевченко (Қазақстан); Висловское, Мелихово-Щебекинское (Россия), Шевченко (Казахстан); Vislovskoe, Melihovo-Schebekinskoe (Russia), Shevchenko (Kazakhstan) \n"}],
+    "categorie":"Коры выветривания",
+    "img": "https://sun9-35.userapi.com/c858016/v858016922/168bb3/srMBMq3n-Yw.jpg"
+  },{
+    "name": "Кора выветривания",
+    "description": [{"Генезисі  Генезис Genesis":"\nШөгінді; Осадочная; Sedimentary\n "},
+                    {"Минералогиялық құрам/Минералогический состав/Mineralogical composition":"\nКаолинит, гётит, гематит и гиббсит; Каолинит, гётит, гематит и гиббсит; Kaolinite, goethite, hematite and gibbsite \n"},
+                    {"Құрылым/Структура/Structure":"\nПелитаморфты, оолитті; Пелитовая, бобовая; Pelitoamorfnaya, oolitic \n"},
+                    {"Бітімі/Текстура/Texture" :"\nКеуекті, топырақ тәрізді;Пористая, землистая;The porous, earthy \n"},
+                    {"Жатыс формалары/Форма залегания/Оccurrence form" :"\nЛинзалар, қабаттар; Линзы, пласты; Lenses, layers\n"},
+                    {"Пайдалануы/Применение/Uses": "темір, алюминий, марганец, никель кені ; руда на железо, алюминий, марганец, никель; ore of iron, aluminum, manganese,nickel\n"}, 
+                    {"Кенорындар/Месторождения/Deposits":  "Висловское, Мелихово-Щебекинское (Ресей), Шевченко (Қазақстан); Висловское, Мелихово-Щебекинское (Россия), Шевченко (Казахстан); Vislovskoe, Melihovo-Schebekinskoe (Russia), Shevchenko (Kazakhstan) \n"}],
+    "categorie":"Коры выветривания",
+    "img": "https://sun9-35.userapi.com/c858016/v858016922/168bb3/srMBMq3n-Yw.jpg"
+  },{
+    "name": "Кора выветривания",
+    "description": [{"Генезисі  Генезис Genesis":"\nШөгінді; Осадочная; Sedimentary\n "},
+                    {"Минералогиялық құрам/Минералогический состав/Mineralogical composition":"\nКаолинит, гётит, гематит и гиббсит; Каолинит, гётит, гематит и гиббсит; Kaolinite, goethite, hematite and gibbsite \n"},
+                    {"Құрылым/Структура/Structure":"\nПелитаморфты, оолитті; Пелитовая, бобовая; Pelitoamorfnaya, oolitic \n"},
+                    {"Бітімі/Текстура/Texture" :"\nКеуекті, топырақ тәрізді;Пористая, землистая;The porous, earthy \n"},
+                    {"Жатыс формалары/Форма залегания/Оccurrence form" :"\nЛинзалар, қабаттар; Линзы, пласты; Lenses, layers\n"},
+                    {"Пайдалануы/Применение/Uses": "темір, алюминий, марганец, никель кені ; руда на железо, алюминий, марганец, никель; ore of iron, aluminum, manganese,nickel\n"}, 
+                    {"Кенорындар/Месторождения/Deposits":  "Висловское, Мелихово-Щебекинское (Ресей), Шевченко (Қазақстан); Висловское, Мелихово-Щебекинское (Россия), Шевченко (Казахстан); Vislovskoe, Melihovo-Schebekinskoe (Russia), Shevchenko (Kazakhstan) \n"}],
+    "categorie":"Коры выветривания",
+    "img": "https://sun9-35.userapi.com/c858016/v858016922/168bb3/srMBMq3n-Yw.jpg"
+  },{
+    "name": "Кора выветривания",
+    "description": [{"Генезисі  Генезис Genesis":"\nШөгінді; Осадочная; Sedimentary\n "},
+                    {"Минералогиялық құрам/Минералогический состав/Mineralogical composition":"\nКаолинит, гётит, гематит и гиббсит; Каолинит, гётит, гематит и гиббсит; Kaolinite, goethite, hematite and gibbsite \n"},
+                    {"Құрылым/Структура/Structure":"\nПелитаморфты, оолитті; Пелитовая, бобовая; Pelitoamorfnaya, oolitic \n"},
+                    {"Бітімі/Текстура/Texture" :"\nКеуекті, топырақ тәрізді;Пористая, землистая;The porous, earthy \n"},
+                    {"Жатыс формалары/Форма залегания/Оccurrence form" :"\nЛинзалар, қабаттар; Линзы, пласты; Lenses, layers\n"},
+                    {"Пайдалануы/Применение/Uses": "темір, алюминий, марганец, никель кені ; руда на железо, алюминий, марганец, никель; ore of iron, aluminum, manganese,nickel\n"}, 
+                    {"Кенорындар/Месторождения/Deposits":  "Висловское, Мелихово-Щебекинское (Ресей), Шевченко (Қазақстан); Висловское, Мелихово-Щебекинское (Россия), Шевченко (Казахстан); Vislovskoe, Melihovo-Schebekinskoe (Russia), Shevchenko (Kazakhstan) \n"}],
+    "categorie":"Коры выветривания",
+    "img": "https://sun9-35.userapi.com/c858016/v858016922/168bb3/srMBMq3n-Yw.jpg"
+  },{
+    "name": "Кора выветривания",
+    "description": [{"Генезисі  Генезис Genesis":"\nШөгінді; Осадочная; Sedimentary\n "},
+                    {"Минералогиялық құрам/Минералогический состав/Mineralogical composition":"\nКаолинит, гётит, гематит и гиббсит; Каолинит, гётит, гематит и гиббсит; Kaolinite, goethite, hematite and gibbsite \n"},
+                    {"Құрылым/Структура/Structure":"\nПелитаморфты, оолитті; Пелитовая, бобовая; Pelitoamorfnaya, oolitic \n"},
+                    {"Бітімі/Текстура/Texture" :"\nКеуекті, топырақ тәрізді;Пористая, землистая;The porous, earthy \n"},
+                    {"Жатыс формалары/Форма залегания/Оccurrence form" :"\nЛинзалар, қабаттар; Линзы, пласты; Lenses, layers\n"},
+                    {"Пайдалануы/Применение/Uses": "темір, алюминий, марганец, никель кені ; руда на железо, алюминий, марганец, никель; ore of iron, aluminum, manganese,nickel\n"}, 
+                    {"Кенорындар/Месторождения/Deposits":  "Висловское, Мелихово-Щебекинское (Ресей), Шевченко (Қазақстан); Висловское, Мелихово-Щебекинское (Россия), Шевченко (Казахстан); Vislovskoe, Melihovo-Schebekinskoe (Russia), Shevchenko (Kazakhstan) \n"}],
+    "categorie":"Коры выветривания",
+    "img": "https://sun9-35.userapi.com/c858016/v858016922/168bb3/srMBMq3n-Yw.jpg"
+  },{
+    "name": "Кора выветривания",
+    "description": [{"Генезисі  Генезис Genesis":"\nШөгінді; Осадочная; Sedimentary\n "},
+                    {"Минералогиялық құрам/Минералогический состав/Mineralogical composition":"\nКаолинит, гётит, гематит и гиббсит; Каолинит, гётит, гематит и гиббсит; Kaolinite, goethite, hematite and gibbsite \n"},
+                    {"Құрылым/Структура/Structure":"\nПелитаморфты, оолитті; Пелитовая, бобовая; Pelitoamorfnaya, oolitic \n"},
+                    {"Бітімі/Текстура/Texture" :"\nКеуекті, топырақ тәрізді;Пористая, землистая;The porous, earthy \n"},
+                    {"Жатыс формалары/Форма залегания/Оccurrence form" :"\nЛинзалар, қабаттар; Линзы, пласты; Lenses, layers\n"},
+                    {"Пайдалануы/Применение/Uses": "темір, алюминий, марганец, никель кені ; руда на железо, алюминий, марганец, никель; ore of iron, aluminum, manganese,nickel\n"}, 
+                    {"Кенорындар/Месторождения/Deposits":  "Висловское, Мелихово-Щебекинское (Ресей), Шевченко (Қазақстан); Висловское, Мелихово-Щебекинское (Россия), Шевченко (Казахстан); Vislovskoe, Melihovo-Schebekinskoe (Russia), Shevchenko (Kazakhstan) \n"}],
+    "categorie":"Коры выветривания",
+    "img": "https://sun9-35.userapi.com/c858016/v858016922/168bb3/srMBMq3n-Yw.jpg"
+  },{
+    "name": "Кора выветривания",
+    "description": [{"Генезисі  Генезис Genesis":"\nШөгінді; Осадочная; Sedimentary\n "},
+                    {"Минералогиялық құрам/Минералогический состав/Mineralogical composition":"\nКаолинит, гётит, гематит и гиббсит; Каолинит, гётит, гематит и гиббсит; Kaolinite, goethite, hematite and gibbsite \n"},
+                    {"Құрылым/Структура/Structure":"\nПелитаморфты, оолитті; Пелитовая, бобовая; Pelitoamorfnaya, oolitic \n"},
+                    {"Бітімі/Текстура/Texture" :"\nКеуекті, топырақ тәрізді;Пористая, землистая;The porous, earthy \n"},
+                    {"Жатыс формалары/Форма залегания/Оccurrence form" :"\nЛинзалар, қабаттар; Линзы, пласты; Lenses, layers\n"},
+                    {"Пайдалануы/Применение/Uses": "темір, алюминий, марганец, никель кені ; руда на железо, алюминий, марганец, никель; ore of iron, aluminum, manganese,nickel\n"}, 
+                    {"Кенорындар/Месторождения/Deposits":  "Висловское, Мелихово-Щебекинское (Ресей), Шевченко (Қазақстан); Висловское, Мелихово-Щебекинское (Россия), Шевченко (Казахстан); Vislovskoe, Melihovo-Schebekinskoe (Russia), Shevchenko (Kazakhstan) \n"}],
+    "categorie":"Коры выветривания",
+    "img": "https://sun9-35.userapi.com/c858016/v858016922/168bb3/srMBMq3n-Yw.jpg"
   }
 
 ]
