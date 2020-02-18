@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Флюорит CaF2",
+    "desc":"Физикалық қаситеттері",
+    "category":"Галагениды",
+    "imageUrl": "https://sun9-23.userapi.com/c858016/v858016922/168b5c/cTeFgF4VfEg.jpg"
+  },
+  {
+    "name": "Флюорит CaF2",
+    "desc": "Физикалық қаситеттері",
+    "category":"Галагениды",
+    "imageUrl": "https://sun9-13.userapi.com/c858016/v858016922/168b63/ETzzr3HOBwc.jpg"
+  },
+  {
+    "name": "Флюорит CaF2",
+    "desc": "Физикалық қаситеттері",
+    "category":"Галагениды",
+    "imageUrl": "https://sun9-21.userapi.com/c858016/v858016922/168b6a/jCHWVS4pwfU.jpg"
+  },
+  {
+    "name": "Флюорит CaF2",
+    "desc": "Физикалық қаситеттері",
+    "category":"Галагениды",
+    "imageUrl": "https://sun9-18.userapi.com/c858016/v858016922/168b7b/4ZpUwks2THo.jpg"
+  },
+  {
+    "name": "Флюорит CaF2",
+    "desc": "Физикалық қаситеттері",
+    "category":"Галагениды",
+     "imageUrl": "https://sun9-23.userapi.com/c858016/v858016922/168b82/jHRywSUI4m0.jpg"
+  },
+  {
+    "name": "Флюорит CaF2",
+    "desc": "Физикалық қаситеттері",
+    "category":"Галагениды",
+    "imageUrl": "https://sun9-42.userapi.com/c858016/v858016922/168b89/RAKMKhYwyNM.jpg"
+  },
+  {
+    "name": "Флюорит CaF2",
+    "desc": "Физикалық қаситеттері",
+    "category":"Галагениды",
+    "imageUrl": "https://sun9-28.userapi.com/c858016/v858016922/168b90/2AGACkaqnJA.jpg"
+  },
+  {
+    "name": "Сильвин   KCl",
+    "desc": "Физикалық қаситеттері",
+    "category":"Галагениды",
+    "imageUrl": "https://sun9-29.userapi.com/c858016/v858016922/168b97/2YV_fxguVCM.jpg"
+  },
+  {
+    "name": "Галит  NaCl",
+    "desc": "Физикалық қаситеттері",
+    "category":"Галагениды",
+    "imageUrl": "https://sun9-40.userapi.com/c858016/v858016922/168b9e/kxoWUNTnwfA.jpg" 
+  },
+  {
+    "name": "Галит  NaCl",
+    "desc": "Физикалық қаситеттері",
+    "category":"Галагениды",
+    "imageUrl": "https://sun9-18.userapi.com/c858016/v858016922/168ba5/trkTsbwNItc.jpg"
+  },
+  {
+    "name": "Латерит",
+    "desc": "Физикалық қаситеттері",
+    "category":"Кора выветривания",
+    "imageUrl": "https://sun9-48.userapi.com/c858016/v858016922/168bac/S9TJnG4Fj_M.jpg"
+  },
+  {
+    "name": "Кора выветривания",
+    "desc": "Физикалық қаситеттері",
+    "category":"Коры выветривания",
+    "imageUrl": "https://sun9-35.userapi.com/c858016/v858016922/168bb3/srMBMq3n-Yw.jpg"
+  },{
+    "name": "Үгілу қыртысы/Кора выветривания/The weathering crust ",
+    "desc": "Физикалық қаситеттері",
+    "category":"Коры выветривания",
+    "imageUrl": "https://sun9-42.userapi.com/c857624/v857624410/16c238/PmqjQjJnhaQ.jpg"
+  },{
+    "name": "Қиыршықтас/Малахитовая зелень/Breakstone",
+    "desc": "Физикалық қаситеттері",
+    "category":"Коры выветривания",
+    "imageUrl": "https://sun9-6.userapi.com/c857624/v857624410/16c23f/pZ9_ikSlYT4.jpg"},
+  {"name": "Лазурит (Na,Ca)8[(S,Cl,SO4,OH)2|(Al6Si6O24)]/Лазурит/Lazurite",
+    "desc": "Физикалық қаситеттері",
+    "category":"Коры выветривания",
+    "imageUrl": "https://sun9-39.userapi.com/c857624/v857624410/16c246/kpFOJUfXuvo.jpg"},
+  {"name": "Латерит/ Латерит/ Laterite",
+    "desc": "Физикалық қаситеттері",
+    "category":"Коры выветривания",
+    "imageUrl": "https://sun9-41.userapi.com/c857624/v857624410/16c24d/VCOUMXKQ42Q.jpg"},
+  {"name": "Хромит FeCr2O4/ Хромит/ Chromite",
+    "desc": "Физикалық қаситеттері",
+    "category":"Коры выветривания",
+    "imageUrl": "https://sun9-68.userapi.com/c857624/v857624410/16c254/xh5vUQF66Kk.jpg"},
+  {"name": "Фосфорит/ Фосфорит Ca2Ca3[PO4]3(F,Cl)/ Phosphorite",
+    "desc": "Физикалық қаситеттері",
+    "category":"Коры выветривания",
+    "imageUrl": "https://sun9-48.userapi.com/c857624/v857624410/16c25b/pdknz-wTqWM.jpg"},
+  {"name": "Боксит/ Боксит/ Bauxite",
+    "desc": "Физикалық қаситеттері",
+    "category":"Коры выветривания",
+    "imageUrl": "https://sun9-14.userapi.com/c857624/v857624410/16c262/QRBlnLfE-Dc.jpg"},
+  {"name": "Темір телпек/ Железная шляпа/ Iron hat",
+    "desc": "Физикалық қаситеттері",
+    "category":"Коры выветривания",
+    "imageUrl": "https://sun9-41.userapi.com/c857624/v857624410/16c269/Daz65aK8JdI.jpg"},
+  {"name": "Темір телпек/ Железная шляпа/ Iron hat",
+    "desc": "Физикалық қаситеттері",
+    "category":"Коры выветривания",
+    "imageUrl": "https://sun9-50.userapi.com/c857624/v857624410/16c270/Smtkd_PggRo.jpg"},
+  {"name": "Темір телпек/ Железная шляпа/ Iron hat",
+    "desc": "Физикалық қаситеттері",
+    "category":"Коры выветривания",
+    "imageUrl": "https://sun9-72.userapi.com/c857624/v857624410/16c277/G8MIuglAguY.jpg"},
+  {"name": "Табиғи мыс  Сu/ Самородная медь/ Native copper",
+    "desc": "Физикалық қаситеттері",
+    "category":"Самородные",
+    "imageUrl": "https://sun9-10.userapi.com/c857624/v857624410/16c27e/dJprhNHWBBU.jpg"},
+  {"name": "Табиғи мыс  Сu/ Самородная медь/ Native copper",
+    "desc": "Физикалық қаситеттері",
+    "category":"Самородные",
+    "imageUrl": "https://sun9-4.userapi.com/c857624/v857624410/16c285/K7bjWw6DKW0.jpg"},
+  {"name": "Табиғи мыс  Сu/ Самородная медь/ Native copper",
+    "desc": "Физикалық қаситеттері",
+    "category":"Самородные",
+    "imageUrl": "https://sun9-24.userapi.com/c857624/v857624410/16c28c/EQiSTo7eA5Y.jpg"},
+  {"name": "Самородная сера S/ Самородная сера/ Brimstone",
+    "desc": "Физикалық қаситеттері",
+    "category":"Самородные",
+    "imageUrl": "https://sun9-36.userapi.com/c857624/v857624410/16c293/Hy7LFR_u_08.jpg"},
+  {"name": "Самородная сера S/ Самородная сера/ Brimstone",
+    "desc": "Физикалық қаситеттері",
+    "category":"Самородные",
+    "imageUrl": "https://sun9-26.userapi.com/c857624/v857624410/16c29a/1fXbRfQ7Mbg.jpg"},
+  {"name": "Самородная сера S/ Самородная сера/ Brimstone",
+    "desc": "Физикалық қаситеттері",
+    "category":"Самородные",
+    "imageUrl": "https://sun9-20.userapi.com/c857624/v857624410/16c2a1/bBw17MSheDs.jpg"},
+  {"name": "Алтын  Au/ Самородное золото/ Au  Gold",
+    "desc": "Физикалық қаситеттері",
+   "category":"Самородные",
+    "imageUrl": "https://sun9-12.userapi.com/c857624/v857624410/16c2a8/aKkjoiufTvQ.jpg"
+  }
+
+]
